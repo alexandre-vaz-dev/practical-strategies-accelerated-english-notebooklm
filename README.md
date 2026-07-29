@@ -1,3 +1,5 @@
+![Mapa Mental - Practical Strategies for Accelerated English](imagens/mapa-mental.png)
+
 # 📘 Practical Strategies for Accelerated English usando NotebookLM
 
 ## 🎯 Contexto e Objetivos
